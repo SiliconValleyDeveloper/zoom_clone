@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "633330468193",
+    "firebase_url": "https://world-real-facts-default-rtdb.firebaseio.com",
+    "project_id": "world-real-facts",
+    "storage_bucket": "world-real-facts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330468193:android:84fea2a2338eff63d23120",
+        "android_client_info": {
+          "package_name": "com.curisouslyfacts.curiouslyfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330468193-o49n3d4mqv1i4g71p0abhh6i1eumr18p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curisouslyfacts.curiouslyfacts",
+            "certificate_hash": "b00e20ebf2239dfab4d7f0d4235457e7d870407e"
+          }
+        },
+        {
+          "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNBPrbBiT8g5kE7PnSwUKA40Cg2ghv2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633330468193-k7624n1hd709v4jq1gps4dpif1908llb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330468193:android:873f5ccfd739ac74d23120",
+        "android_client_info": {
+          "package_name": "com.example.zoom_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330468193-t6kcs4omtn5v7oilau7hbpqjlj1ckien.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone",
+            "certificate_hash": "a9e5f7f6a16e8d4388aabe4b656efed0e5012ebb"
+          }
+        },
+        {
+          "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNBPrbBiT8g5kE7PnSwUKA40Cg2ghv2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633330468193-k7624n1hd709v4jq1gps4dpif1908llb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330468193:android:a103c85af94a78cbd23120",
+        "android_client_info": {
+          "package_name": "com.historicalf.historicalfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330468193-uobbnftqmmbv0lfara965c19dkhh7pj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.historicalf.historicalfacts",
+            "certificate_hash": "b00e20ebf2239dfab4d7f0d4235457e7d870407e"
+          }
+        },
+        {
+          "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNBPrbBiT8g5kE7PnSwUKA40Cg2ghv2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633330468193-k7624n1hd709v4jq1gps4dpif1908llb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330468193:android:7128c36e20021517d23120",
+        "android_client_info": {
+          "package_name": "com.publishfacts.factspublish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330468193-7nhvr0vajj4hc3986cjeut55rf0g6b7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.publishfacts.factspublish",
+            "certificate_hash": "b00e20ebf2239dfab4d7f0d4235457e7d870407e"
+          }
+        },
+        {
+          "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNBPrbBiT8g5kE7PnSwUKA40Cg2ghv2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633330468193-k7624n1hd709v4jq1gps4dpif1908llb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330468193:android:5275560088f365f8d23120",
+        "android_client_info": {
+          "package_name": "com.uncoverfacts.uncover_facts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330468193-fi0sh81gdfe3ilvbnqojueopof7q9fe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uncoverfacts.uncover_facts",
+            "certificate_hash": "b00e20ebf2239dfab4d7f0d4235457e7d870407e"
+          }
+        },
+        {
+          "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNBPrbBiT8g5kE7PnSwUKA40Cg2ghv2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330468193-7l9d007vtlum98t5v3pb0bah8ir5o56d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633330468193-k7624n1hd709v4jq1gps4dpif1908llb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
